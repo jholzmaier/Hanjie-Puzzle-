@@ -5,7 +5,7 @@
    Tutorial 11
    Tutorial Case
 
-   Author: Nikko Kapetanos
+   Author: Jaclyn Holzmaier 
    Date:  4/19/2023 
 
    Global Variables
